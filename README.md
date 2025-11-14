@@ -1,34 +1,48 @@
-<h2 align="center">Hi 👋! My name is Vivek and I'm a Software Engineer.</h2>
+### vivekjangam / README.md
 
-###
+# Vivek Jangam
+
+I'm a **Data Analyst** who loves transforming raw data into clear, actionable insights.  
+I work with **Python, SQL, Pandas, NumPy, Power BI, Tableau, FastAPI, Angular, Docker, and AWS** to build analytical systems, dashboards, and data-powered applications.
+
+I enjoy solving real-world problems through data and building tools that automate analysis and reporting.
+
+Here are some of my featured projects:
+
+1. **Customer Behavior Analysis** – Analyzed customer patterns, retention behavior, and buying trends using Python & SQL.  
+   *Repo:* https://github.com/jangamvivek
+
+2. **Cyclistic Case Study** – End-to-end data analysis case study using Python to understand rider usage patterns and business recommendations.  
+   *Repo:* https://github.com/jangamvivek
+
+3. **IMDB Data Scraping** – Scraped and analyzed IMDB movie datasets using Python, BeautifulSoup, and Pandas for insights into ratings & genres.  
+   *Repo:* https://github.com/jangamvivek
+
+4. **Air Quality Analysis of Indian Cities** – Python + Tableau project visualizing AQI & pollutant trends across 26 major Indian cities.  
+   *Repo:* https://github.com/jangamvivek/Air-Quality-Analysis-India
+
+5. **X2PDF** – An AI-powered Excel-to-PDF automated reporting tool that cleans data, analyzes it, and generates charts inside PDF reports.  
+   *Repo:* https://github.com/jangamvivek/Excel-Auto-Report-AI
+
+6. **Leaf AI** – Smart plant disease detection tool using ML & image processing to classify infected leaves.  
+   *Repo:* https://github.com/jangamvivek
+
+I’m always exploring ways to combine **data, automation, and AI** to build impactful solutions.
+
+---
+
+### Connect with me
+  
+[LinkedIn](https://www.linkedin.com/in/vivek-jangam-3a3271257/) ·  
+[Gmail](mailto:jangamvivek77@gmail.com)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangamvivek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jangamvivek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jangamvivek&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jangamvivek&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jangamvivek.jangamvivek&left_color=green"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jangamvivek.jangamvivek&left_color=green">
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/i.vivek7/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/vivek-jangam-3a3271257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/51c0202e50bafe49461a0f5327a0a32e1f19a4d7223c24c3889092598669d95b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"  />
-</div>
-
-###
