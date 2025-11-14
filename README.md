@@ -27,20 +27,9 @@ Here are some of my featured projects:
 
 I’m always exploring ways to combine **data, automation, and AI** to build impactful solutions.
 
----
 
 ### Connect with me
   
-[LinkedIn](https://www.linkedin.com/in/vivek-jangam-3a3271257/) ·  
+[LinkedIn](https://www.linkedin.com/in/vivek-jangam-3a3271257/)
 [Gmail](mailto:jangamvivek77@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangamvivek&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jangamvivek&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jangamvivek.jangamvivek&left_color=green">
-</div>
