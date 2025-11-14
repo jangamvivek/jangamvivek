@@ -1,5 +1,3 @@
-### vivekjangam / README.md
-
 # Vivek Jangam
 
 I'm a **Data Analyst** who loves transforming raw data into clear, actionable insights.  
@@ -9,23 +7,23 @@ I enjoy solving real-world problems through data and building tools that automat
 
 Here are some of my featured projects:
 
-1. **Customer Behavior Analysis** – Analyzed customer patterns, retention behavior, and buying trends using Python & SQL.  
-   *Repo:* https://github.com/jangamvivek
+1. **Customer Behavior Analysis** – Cleaned missing data, Analyzed customer patterns, retention behavior, and buying trends using Python, SQL, Power BI.  
+   *Repo:* https://github.com/jangamvivek/jangamvivek 
 
 2. **Cyclistic Case Study** – End-to-end data analysis case study using Python to understand rider usage patterns and business recommendations.  
-   *Repo:* https://github.com/jangamvivek
+   *Repo:* https://github.com/jangamvivek/Cyclistic-Bike-Analysis
 
 3. **IMDB Data Scraping** – Scraped and analyzed IMDB movie datasets using Python, BeautifulSoup, and Pandas for insights into ratings & genres.  
-   *Repo:* https://github.com/jangamvivek
+   *Repo:* https://github.com/jangamvivek/IMDB_Data_Scrapping
 
 4. **Air Quality Analysis of Indian Cities** – Python + Tableau project visualizing AQI & pollutant trends across 26 major Indian cities.  
-   *Repo:* https://github.com/jangamvivek/Air-Quality-Analysis-India
+   *Repo:* https://github.com/jangamvivek/Air-Quality-Analysis-india
 
 5. **X2PDF** – An AI-powered Excel-to-PDF automated reporting tool that cleans data, analyzes it, and generates charts inside PDF reports.  
-   *Repo:* https://github.com/jangamvivek/Excel-Auto-Report-AI
+   *Repo:* https://github.com/jangamvivek/X2PDF_frontend
 
 6. **Leaf AI** – Smart plant disease detection tool using ML & image processing to classify infected leaves.  
-   *Repo:* https://github.com/jangamvivek
+   *Repo:* https://github.com/jangamvivek/Leaf-ai
 
 I’m always exploring ways to combine **data, automation, and AI** to build impactful solutions.
 
