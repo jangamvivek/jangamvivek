@@ -8,7 +8,7 @@ I enjoy solving real-world problems through data and building tools that automat
 Here are some of my featured projects:
 
 1. **Customer Behavior Analysis** – Cleaned missing data, Analyzed customer patterns, retention behavior, and buying trends using Python, SQL, Power BI.  
-   *Repo:* https://github.com/jangamvivek/jangamvivek 
+   *Repo:* https://github.com/jangamvivek/Customer-Shopping-Behavior
 
 2. **Cyclistic Case Study** – End-to-end data analysis case study using Python to understand rider usage patterns and business recommendations.  
    *Repo:* https://github.com/jangamvivek/Cyclistic-Bike-Analysis
