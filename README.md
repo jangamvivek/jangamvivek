@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Vivek Jangam
 
-I’m a **Software Developer** with strong skills in **full-stack development, scalable backend systems, DSA, and system design**.  
+I’m a **Software Engineer** with strong skills in **full-stack development, scalable backend systems, DSA, and system design**.  
 I love solving real-world problems through clean architecture, efficient code, and intuitive products.
 
-**Tech:** TypeScript, JavaScript, Python, Node.js, NestJS, Angular, React Native, MongoDB, MySQL, Docker, AWS, FastAPI
+**Tech:** TypeScript, JavaScript, Python, Node.js, NextJS, Angular, React Native, MongoDB, MySQL, Docker, AWS, FastAPI
 
 I practice **DSA regularly (C++)**, focus on writing optimal solutions, and enjoy designing systems that scale for real users.
 
