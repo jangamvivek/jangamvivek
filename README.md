@@ -26,7 +26,7 @@ Converts Excel → cleaned data → analysis → charts → PDF automatically.
 
 ### 🌍 VoiceItOut – Community Reporting Platform  
 Users report civic issues; includes multilingual UI, admin panel, analytics dashboard, and mobile app.  
-**Repo:** https://github.com/jangamvivek/VoiceItOut-Monorepo  
+**Repo:** https://github.com/jangamvivek/voiceitout
 
 ---
 
